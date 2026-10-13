@@ -4,6 +4,8 @@
 
 <h1 align="center">Trialo</h1>
 
+<p align="center"><strong>🏆 HackRU Winner</strong></p>
+
 <p align="center">
   <strong>Clinical-trial pre-screening by voice.</strong><br>
   A coordinator shares a link or QR code, a participant has a short conversation with Ollie,<br>
@@ -19,6 +21,7 @@
 </p>
 
 <p align="center">
+  <img alt="HackRU Winner" src="https://img.shields.io/badge/HackRU-Winner-d4a017?logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZmZmZiI%2BPHBhdGggZD0iTTcgM2gxMHYyaDN2M2E1IDUgMCAwIDEtNC42IDVBNSA1IDAgMCAxIDEzIDE1LjlWMThoM3YzSDh2LTNoM3YtMi4xQTUgNSAwIDAgMSA4LjYgMTMgNSA1IDAgMCAxIDQgOFY1aDNWM3oiLz48L3N2Zz4%3D">
   <img alt="Next.js 16" src="https://img.shields.io/badge/Next.js-16-000000?logo=nextdotjs">
   <img alt="React 19" src="https://img.shields.io/badge/React-19-149eca?logo=react">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-strict-3178c6?logo=typescript&logoColor=white">
@@ -28,7 +31,7 @@
 </p>
 
 > [!IMPORTANT]
-> Trialo is a working prototype built at HackRU for the Regeneron and ElevenLabs tracks. It uses **synthetic demo data only**. It is not a medical device and never decides eligibility: every result is a preliminary summary for clinical research staff to review.
+> Trialo is a working prototype built at HackRU for the Regeneron and ElevenLabs tracks, where it was one of the winning projects. It uses **synthetic demo data only**. It is not a medical device and never decides eligibility: every result is a preliminary summary for clinical research staff to review.
 
 ## Demo
 
